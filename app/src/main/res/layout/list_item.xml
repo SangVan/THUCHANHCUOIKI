@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginBottom="20dp"
-    android:background="@drawable/custom_btn">
+    android:background="#B36FBDA1">
 
     <TextView
         android:id="@+id/txtName"
